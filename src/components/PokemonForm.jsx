@@ -34,6 +34,7 @@ export default class PokemonForm extends Component {
         />
         <button type="submit">
           <ImSearch style={{ marginRight: 8 }} />
+          Search
         </button>
       </form>
     );
