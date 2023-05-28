@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HTTP-training-/static/css/main.7acaea2f.css",
-    "main.js": "/HTTP-training-/static/js/main.dc2a1fe2.js",
+    "main.js": "/HTTP-training-/static/js/main.bd7943d0.js",
     "static/media/oops-404-error-with-broken-robot-concept-illustration_114360-5529.avif": "/HTTP-training-/static/media/oops-404-error-with-broken-robot-concept-illustration_114360-5529.eff224a2f67251d8b553.avif",
     "index.html": "/HTTP-training-/index.html",
     "main.7acaea2f.css.map": "/HTTP-training-/static/css/main.7acaea2f.css.map",
-    "main.dc2a1fe2.js.map": "/HTTP-training-/static/js/main.dc2a1fe2.js.map"
+    "main.bd7943d0.js.map": "/HTTP-training-/static/js/main.bd7943d0.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.dc2a1fe2.js"
+    "static/js/main.bd7943d0.js"
   ]
 }
